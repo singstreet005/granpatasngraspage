@@ -25,6 +25,7 @@ export const SERVICES_DATA: Record<ServiceId, ServiceDetails> = {
     description: ` Hola Weon@s
 
 Los saludos que subo al perfil son 
+
 Esta opción es ideal si quieres algo rápido y para todos. Si prefieres algo diferente o totalmente personalizado, también lo hacemos —siempre con el toque único de La Bandita. 💌🎉
 
 ¿Te gustaría uno personalizado para alguien en especial? 🎁😊`,
