@@ -30,8 +30,8 @@ Si quieres Molestar, Felicitar o solo Saludar a alguien puedes hacerlo acá de f
 
 ¿Webiamos o Saludamos a algien hijo de la diuca? `,
     buttons: [
-      { text: "Saludo: 8s - $2.390", url: "https://mpago.la/1q16svx" },
-      { text: "Saludo: 16segundos - $3.390", url: "https://mpago.la/2g2F9AV" }
+      { text: "Saludo: 8s - $2.390", url: "https://mpago.la/17LJC94" },
+      { text: "Saludo: 16segundos - $3.390", url: "https://mpago.la/21hyLcX" }
     ],
     bottomText: "ENVIAME EL MENSAJE Y COMPROBANTE AL DM mi amor"
   },
