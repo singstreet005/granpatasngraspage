@@ -6,26 +6,25 @@ import { ServiceDetails, ServiceId } from './types';
 // ⚠️ IMPORTANTE: Reemplaza esta URL con el link directo de la imagen que acabas de subir.
 // Como soy una IA de texto, no puedo alojar el archivo, pero he preparado todo para que funcione
 // en cuanto pegues el link aquí abajo.
-export const BRAND_IMAGE_URL = "https://via.placeholder.com/800x1200/000000/ffffff?text=PEGA+TU+URL+DE+IMAGEN+AQUI"; 
+export const BRAND_IMAGE_URL = "https://i.postimg.cc/6QRxpR03/Whisk-d59077067cf3e668e8449ef6896a0d29dr.jpg"; 
 
-export const BACKGROUND_IMAGE_URL = BRAND_IMAGE_URL; 
-export const PROFILE_IMAGE_URL = BRAND_IMAGE_URL;
+export const BACKGROUND_IMAGE_URL = "https://i.postimg.cc/6QRxpR03/Whisk-d59077067cf3e668e8449ef6896a0d29dr.jpg"; 
+export const PROFILE_IMAGE_URL = https://i.postimg.cc/bNj7mspW/Whisk-0cdnkldomndo4udztymzwktljfzm00iy1mdmtem.jpg;
 
 // --- TEXTS ---
-export const BRAND_NAME = "La Bandita";
-export const SLOGAN_TEXT = "Todos Somos La bandita! 🦧🦫🦊🦊🐇";
+export const BRAND_NAME = "Gran Patas Negras";
+export const SLOGAN_TEXT = "Un gran abrazo por atrás...";
 export const WELCOME_TEXT = ""; // Content removed
-export const FOOTER_TEXT = "© 2024 La Bandita. Todos los derechos reservados.";
+export const FOOTER_TEXT = "© 2025 Patas Negras. Todos los derechos reservados.";
 
 // --- SERVICES DATA ---
 export const SERVICES_DATA: Record<ServiceId, ServiceDetails> = {
   saludos: {
     title: "SALUDOS PERSONALIZADOS",
     subtitle: "VIDEO DEDICADO",
-    description: `¡Saluditos! 👋✨
+    description: ` Hola Weon@s
 
-Los saludos que subimos al feed son generales: los creamos pensando en que puedan enviarse a la mayor cantidad de personas posible, y así los seguiremos publicando siempre.
-
+Los saludos que subo al perfil son 
 Esta opción es ideal si quieres algo rápido y para todos. Si prefieres algo diferente o totalmente personalizado, también lo hacemos —siempre con el toque único de La Bandita. 💌🎉
 
 ¿Te gustaría uno personalizado para alguien en especial? 🎁😊`,
