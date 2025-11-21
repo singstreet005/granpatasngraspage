@@ -8,8 +8,8 @@ import { ServiceDetails, ServiceId } from './types';
 // en cuanto pegues el link aquí abajo.
 export const BRAND_IMAGE_URL = "https://i.postimg.cc/6QRxpR03/Whisk-d59077067cf3e668e8449ef6896a0d29dr.jpg"; 
 
-export const BACKGROUND_IMAGE_URL = "https://i.postimg.cc/6QRxpR03/Whisk-d59077067cf3e668e8449ef6896a0d29dr.jpg"; 
-export const PROFILE_IMAGE_URL = 
+export const BACKGROUND_IMAGE_URL = BRAND_IMAGE_URL;
+export const PROFILE_IMAGE_URL = "https://i.postimg.cc/6QRxpR03/Whisk-d59077067cf3e668e8449ef6896a0d29dr.jpg";
 
 // --- TEXTS ---
 export const BRAND_NAME = "Gran Patas Negras";
