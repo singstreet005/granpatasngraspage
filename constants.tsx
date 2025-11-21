@@ -24,9 +24,9 @@ export const SERVICES_DATA: Record<ServiceId, ServiceDetails> = {
     subtitle: "VIDEO DEDICADO",
     description: ` Hola Weon@s...
 
-Los saludos que subo al perfil son creados por mi (los saco de mi raja), y algunos que puedo sleccionar de los que me piden ustedes. 
+Los saludos que subo al perfil son creados por mi (los saco de mi raja), y algunos que puedo seleccionar de los que me piden ustedes. 
 
-Si quieres Webiar, Molestar, Felicitar o solo Saludar a Alguien puedes hacerlo acá de forma PERSONALIZADA con el Toque del Gran Patas Negras (Un Caballero).
+Si quieres Molestar, Felicitar o solo Saludar a alguien puedes hacerlo acá de forma PERSONALIZADA con el Toque del Gran Patas Negras (Un Caballero).
 
 ¿Webiamos o Saludamos a algien hijo de la diuca? `,
     buttons: [
