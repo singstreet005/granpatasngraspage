@@ -24,14 +24,14 @@ export const SERVICES_DATA: Record<ServiceId, ServiceDetails> = {
     subtitle: "VIDEO DEDICADO",
     description: ` Hola Weon@s
 
-Los saludos que subo al perfil son 
+Los saludos que subo al perfil son inventados por mi (sacados de mi raja), y algunos que puedo sleccionar de los que me piden. 
 
-Esta opción es ideal si quieres algo rápido y para todos. Si prefieres algo diferente o totalmente personalizado, también lo hacemos —siempre con el toque único de La Bandita. 💌🎉
+Si quieres Webiar, Felicitar o solo Saludar a Alguien puedes hacerlo acá de forma PERSONALIZADA con el Toque del Gran Patas Negras (Un Caballero).�
 
-¿Te gustaría uno personalizado para alguien en especial? 🎁😊`,
+¿Webiamos o Saludamos a algien hijo de la diuca? `,
     buttons: [
-      { text: "Saludo: 8s - $2.290", url: "https://mpago.la/1q16svx" },
-      { text: "Saludo: 16segundos - $3.290", url: "https://mpago.la/2g2F9AV" }
+      { text: "Saludo: 8s - $2.390", url: "https://mpago.la/1q16svx" },
+      { text: "Saludo: 16segundos - $3.390", url: "https://mpago.la/2g2F9AV" }
     ],
     bottomText: "ENVIAME EL MENSAJE Y COMPROBANTE AL DM :)"
   },
