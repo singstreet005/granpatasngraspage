@@ -62,7 +62,7 @@ Como consuelo te mando un gran abrazo por atrás y una fotos mias.
       "https://i.postimg.cc/1zvXgJfm/Whisk-c9c9b05267eb4e8887249f36af3197acdr.jpg",
       "https://i.postimg.cc/HnywHVTL/Whisk-5e366b5a129796cbb5648cb487ea2bf2dr.jpg"
     ],
-    priceTag: "Valor: $10.990 + Envío",
+    priceTag: "Valor: Invaluable",
     buttons: [
       { text: "Enviame un Mensaje Directo", url: "https://www.instagram.com/direct" }
     ]
