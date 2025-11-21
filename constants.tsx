@@ -22,18 +22,18 @@ export const SERVICES_DATA: Record<ServiceId, ServiceDetails> = {
   saludos: {
     title: "SALUDOS PERSONALIZADOS",
     subtitle: "VIDEO DEDICADO",
-    description: ` Hola Weon@s
+    description: ` Hola Weon@s...
 
-Los saludos que subo al perfil son inventados por mi (sacados de mi raja), y algunos que puedo sleccionar de los que me piden. 
+Los saludos que subo al perfil son creados por mi (los saco de mi raja), y algunos que puedo sleccionar de los que me piden ustedes. 
 
-Si quieres Webiar, Felicitar o solo Saludar a Alguien puedes hacerlo acá de forma PERSONALIZADA con el Toque del Gran Patas Negras (Un Caballero).�
+Si quieres Webiar, Molestar, Felicitar o solo Saludar a Alguien puedes hacerlo acá de forma PERSONALIZADA con el Toque del Gran Patas Negras (Un Caballero).
 
 ¿Webiamos o Saludamos a algien hijo de la diuca? `,
     buttons: [
       { text: "Saludo: 8s - $2.390", url: "https://mpago.la/1q16svx" },
       { text: "Saludo: 16segundos - $3.390", url: "https://mpago.la/2g2F9AV" }
     ],
-    bottomText: "ENVIAME EL MENSAJE Y COMPROBANTE AL DM :)"
+    bottomText: "ENVIAME EL MENSAJE Y COMPROBANTE AL DM mi amor"
   },
   colabs: {
     title: "COLABS / NEGOCIOS",
@@ -43,25 +43,24 @@ Ofrezco servicios de:
 • Creación de contenido 
 • Embajadora de marca a largo plazo 
 • Promoción de productos y marcas en historias y posts 
-Cuéntame tu idea y creemos algo increíble juntos. ¡Hagamos que tu marca destaque! 🌟
-Contáctanos por DM o E-Mail.`,
+Cuéntame tu idea y creemos algo diferente juntos. ¡Hagamos que tu marca destaque!
+Contáctanos por Mensaje o E-Mail = kecope09@gmail.com`,
     buttons: [
-      { text: "Conversemos aquí", url: "https://mail.google.com/" }
+      { text: "kecope09@gmail.com", url: "https://mail.google.com/" }
     ]
   },
   productos: {
     title: "MIS PRODUCTOS",
     subtitle: "TIENDA OFICIAL",
-    description: `🧦🔥 ¡Llegaron los calcetines oficiales de La Bandita!
-Diseño exclusivo + SALUDO ESPECIAL personalizado 👀
-No son solo calcetines… son tu entrada a la bandita.
+    description: `Aún nada weón!
+Como consuelo te mando un gran abrazo por atrás y una fotos mias.
 🚚 Envíos a todo Chile
-📦 Edición limitada. ¿Te unes con estilo? 😎`,
+📦 Edición limitada.`,
     // Aquí están los 3 cuadros para imagenes.
     gallery: [
       BRAND_IMAGE_URL, // La imagen que enviaste
-      "https://picsum.photos/300/300?random=2",
-      "https://picsum.photos/300/300?random=3"
+      "https://i.postimg.cc/1zvXgJfm/Whisk-c9c9b05267eb4e8887249f36af3197acdr.jpg",
+      "https://i.postimg.cc/HnywHVTL/Whisk-5e366b5a129796cbb5648cb487ea2bf2dr.jpg"
     ],
     priceTag: "Valor: $10.990 + Envío",
     buttons: [
