@@ -54,7 +54,7 @@ export const LinkTree: React.FC<LinkTreeProps> = ({
         <ActionButton 
           label="YOUTUBE!" 
           icon={ICONS.Youtube}
-          href="https://www.youtube.com/@banditadelcerroficial"
+          href="https://www.youtube.com/@granpatasgrandes"
           isExternal
         />
         
