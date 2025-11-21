@@ -28,7 +28,7 @@ Los saludos que subo al perfil son creados por mi (los saco de mi raja), y algun
 
 Si quieres Molestar, Felicitar o solo Saludar a alguien puedes hacerlo acá de forma PERSONALIZADA con el Toque del Gran Patas Negras (Un Caballero).
 
-¿Webiamos o Saludamos a algien hijo de la diuca? `,
+¿Webiamos o Saludamos a alguien hijo de la diuca? `,
     buttons: [
       { text: "Saludo: 8s - $2.390", url: "https://mpago.la/17LJC94" },
       { text: "Saludo: 16segundos - $3.390", url: "https://mpago.la/21hyLcX" }
